@@ -29,7 +29,8 @@ I transform complex datasets into strategic insights that drive business growth 
 
 ### 🎓 Education
 **University of Calcutta** | B.A. English Honours
-
+- Building skills in critical thinking, research, and English communication
+  
 ### 📫 Let's Connect
 Open to research collaborations, Master's opportunities, and data analytics roles.  
 Let's build data solutions that create real business impact.
