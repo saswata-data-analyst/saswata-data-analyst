@@ -8,19 +8,19 @@ I transform complex datasets into strategic insights that drive business growth 
 
 ### 📊 Featured Projects
 
-#### 1. [DataCo Supply Chain Analytics](https://github.com/saswata-data-analyst/dataco-supply-chain-analysis)
+#### 1. [Samsung India Smartphone Market Analysis](https://github.com/saswata-data-analyst/samsung-india-sales-analysis)
+**Impact**: Visualized market trends for strategic product positioning in India's competitive smartphone sector
+- **Tools**: Python, Matplotlib, Data Visualization
+- **Key Insights**: Consumer behavior patterns and sales performance metrics
+- **Business Value**: Data-driven recommendations for market entry and growth
+
+#### 2. [DataCo Supply Chain Analytics](https://github.com/saswata-data-analyst/dataco-supply-chain-analysis)
 **Impact**: Analyzed 180,000+ e-commerce orders to identify $2M+ in potential logistics savings
 - **Tools**: Python, Pandas, Matplotlib, Jupyter Notebook
 - **Key Insights**: 
     - Identified First Class shipping with 45% late delivery rate as primary bottleneck
     - Predicted cost drivers and recommended optimization strategies
 - **Business Value**: Reduced delivery risk and improved customer satisfaction metrics
-
-#### 2. [Samsung India Smartphone Market Analysis](https://github.com/saswata-data-analyst/samsung-india-sales-analysis)
-**Impact**: Visualized market trends for strategic product positioning in India's competitive smartphone sector
-- **Tools**: Python, Matplotlib, Data Visualization
-- **Key Insights**: Consumer behavior patterns and sales performance metrics
-- **Business Value**: Data-driven recommendations for market entry and growth
 
 ### 🛠 Technical Skills
 **Analytics**: Python, SQL, Excel, Power BI, Pandas, NumPy  
