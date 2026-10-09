@@ -8,7 +8,7 @@ I transform complex datasets into strategic insights that drive business growth 
 
 ### 📊 Featured Projects
 
-#### 1. [Samsung India Smartphone Market Analysis](https://github.com/saswata-data-analyst/samsung-india-sales-analysis)
+#### 1. [Synthetic Smartphone Retail Analysis - India Region [Samsung Pattern Simulation]](https://github.com/saswata-data-analyst/samsung-india-sales-analysis)
 **Impact**: Visualized market trends for strategic product positioning in India's competitive smartphone sector
 - **Tools**: Python (Pandas), Matplotlib, Seaborn
 - **Key Insights**: Consumer behavior patterns and sales performance metrics
