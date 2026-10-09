@@ -18,7 +18,7 @@ I transform complex datasets into strategic insights that drive business growth 
 **Impact**: Analyzed 180,000+ e-commerce orders to identify $2M+ in potential logistics savings
 - **Tools**: Python, Pandas, Matplotlib, Jupyter Notebook
 - **Key Insights**: 
-    - Identified First Class shipping with 45% late delivery rate as primary bottleneck
+    - Identified First Class shipping with 95.32% late delivery rate as primary bottleneck in 180K orders
     - Predicted cost drivers and recommended optimization strategies
 - **Business Value**: Reduced delivery risk and improved customer satisfaction metrics
 
